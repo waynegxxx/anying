@@ -48,5 +48,55 @@
     "title": "疑似Ethena关联地址增持4679万枚ENA，总持仓超4.5亿枚ENA",
     "link": "https://www.theblockbeats.info/flash/322778",
     "pushed_at": "2025-12-03T01:28:19.465099"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_4bad0580da4c6bcc54e5d642cdd55d12": {
+    "title": "AZTEC代币公售已开启，目前认购金额已超15,900枚ETH",
+    "link": "https://m.theblockbeats.info/flash/322808",
+    "pushed_at": "2025-12-03T03:29:16.921329"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_7ad0cfa29f4fb6944f0ca10910e04e4e": {
+    "title": "疑似Bitmine关联地址从Kraken提取30,278枚ETH",
+    "link": "https://m.theblockbeats.info/flash/322807",
+    "pushed_at": "2025-12-03T03:29:19.351279"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_c6988d23e5076203df77c9c9fc43fdca": {
+    "title": "特朗普支持的共和党人在田纳西州险胜，中期选举前景堪忧",
+    "link": "https://m.theblockbeats.info/flash/322806",
+    "pushed_at": "2025-12-03T03:29:20.950184"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_3949d569258851d342a64e034caf9460": {
+    "title": "某巨鲸从Kraken提取17,779枚AAVE，已累计买入310,617枚AAVE",
+    "link": "https://m.theblockbeats.info/flash/322805",
+    "pushed_at": "2025-12-03T03:29:22.526829"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_deb311d4e68366952f2da858cb7d405f": {
+    "title": "Coinbase比特币溢价指数再次转为正值，现报0.0331%",
+    "link": "https://m.theblockbeats.info/flash/322804",
+    "pushed_at": "2025-12-03T03:29:24.267434"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_490a85ab4aacd9af22813f945422efd8": {
+    "title": "PENGU项目方代币部署地址从7月中旬累计将38.811亿枚PENGU转入CEX",
+    "link": "https://m.theblockbeats.info/flash/322803",
+    "pushed_at": "2025-12-03T03:29:26.294338"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_998a0515d7cd80a8fa436bae9da816f0": {
+    "title": "NewGen：截至11月28日，已购入13,000.23枚SOL",
+    "link": "https://m.theblockbeats.info/flash/322802",
+    "pushed_at": "2025-12-03T03:29:28.321739"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_bdb017bf45b73c41daff0fb8e7f3d9b5": {
+    "title": "Bithumb将上线BOB和TRAC韩元交易对",
+    "link": "https://m.theblockbeats.info/flash/322801",
+    "pushed_at": "2025-12-03T03:29:30.160368"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_d7aeee36b2f92d40a4c64ee116e37e04": {
+    "title": "日债收益率上涨，市场聚焦本周经济数据",
+    "link": "https://m.theblockbeats.info/flash/322800",
+    "pushed_at": "2025-12-03T03:29:31.989062"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_0d014fb60147a551be7cdc06d368756d": {
+    "title": "加密恐慌指数回升至28，摆脱「极度恐慌」区间",
+    "link": "https://m.theblockbeats.info/flash/322799",
+    "pushed_at": "2025-12-03T03:29:33.569320"
   }
 }
