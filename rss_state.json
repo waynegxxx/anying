@@ -98,5 +98,25 @@
     "title": "加密恐慌指数回升至28，摆脱「极度恐慌」区间",
     "link": "https://m.theblockbeats.info/flash/322799",
     "pushed_at": "2025-12-03T03:29:33.569320"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_ec4d2d9e901348d41632bf86fa71132c": {
+    "title": "受Bithumb上线韩元交易对影响，BOB短时涨超56%",
+    "link": "https://m.theblockbeats.info/flash/322812",
+    "pushed_at": "2025-12-03T03:52:26.578451"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_050920549798a39f76e2df419890efa6": {
+    "title": "Binance将下架ACH/BTC、W/BTC等现货交易对",
+    "link": "https://m.theblockbeats.info/flash/322811",
+    "pushed_at": "2025-12-03T03:52:28.390071"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_51ba6f9e5c0c25f3d57db12912f2e118": {
+    "title": "CNBC：市场对年底反弹行情仍抱有信心，谨慎乐观情绪正在升温",
+    "link": "https://m.theblockbeats.info/flash/322810",
+    "pushed_at": "2025-12-03T03:52:30.214149"
+  },
+  "https://api.theblockbeats.news/v2/rss/newsflash_89c5642f3e61599dcab8e949a4bd1fb6": {
+    "title": "麦通MSX24小时交易量超20亿美元，积分赛季S1已结束",
+    "link": "https://m.theblockbeats.info/flash/322809",
+    "pushed_at": "2025-12-03T03:52:32.051703"
   }
 }
